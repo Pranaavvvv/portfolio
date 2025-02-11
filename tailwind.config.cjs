@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{js,jsx}"], // Corrected glob pattern
+  content: ["./src/**/*.{js,jsx}"],
   mode: "jit",
   theme: {
     extend: {
