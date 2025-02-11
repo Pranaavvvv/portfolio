@@ -29,7 +29,7 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-import chatbot from "./chatbot.jpg";
+import chatbot from "./chatbot1.png";
 import stock from "./stock.jpg";
 import movie from "./movie.jpg";
 
