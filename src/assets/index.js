@@ -29,6 +29,9 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import chatbot from "./chatbot.jpg";
+import stock from "./stock.jpg";
+import movie from "./movie.jpg";
 
 export {
   logo,
@@ -59,4 +62,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  movie,
+  stock,
+  chatbot,
 };
