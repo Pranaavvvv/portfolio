@@ -201,7 +201,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: chatbot,
     source_code_link: "https://github.com/",
   },
   {
@@ -222,28 +222,31 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: movie,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Premier League Prediction System",
-    description:
-      "A machine learning-based system that predicts Premier League standings using historical match data. Features include team selection, match outcome predictions, and interactive visualizations of points tables.",
-    tags: [
-      {
-        name: "python",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "streamlit",
-        color: "green-text-gradient",
-      },
-      {
-        name: "plotly",
-        color: "pink-text-gradient",
-      },
+    "name": "LSTM Stock Price Prediction",
+    "description": "A deep learning-based system that predicts stock prices using historical data and Long Short-Term Memory (LSTM) neural networks. Features include real-time data visualization, trend forecasting, and interactive charts.",
+    "tags": [
+        {
+            "name": "python",
+            "color": "blue-text-gradient"
+        },
+        {
+            "name": "tensorflow",
+            "color": "orange-text-gradient"
+        },
+        {
+            "name": "lstm",
+            "color": "purple-text-gradient"
+        },
+        {
+            "name": "matplotlib",
+            "color": "red-text-gradient"
+        },
     ],
-    image: tripguide,
+    image: stock,
     source_code_link: "https://github.com/",
   },
 ];
