@@ -190,7 +190,7 @@ const ProjectCard = ({
             </motion.div>
           )}
         </AnimatePresence>
-      </>
+      </Tilt>
     </motion.div>
   );
 };
