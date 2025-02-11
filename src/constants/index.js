@@ -205,7 +205,7 @@ const projects = [
       },
     ],
     image: chatbot,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Pranaavvvv/nirvana-ai/",
   },
   {
     name: "Movie Recommendation System",
@@ -226,7 +226,7 @@ const projects = [
       },
     ],
     image: movie,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Pranaavvvv/movie-recommendation-system/",
   },
   {
     "name": "LSTM Stock Price Prediction",
@@ -250,7 +250,7 @@ const projects = [
         },
     ],
     image: stock,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Pranaavvvv/stock-prediction/",
   },
 ];
 
