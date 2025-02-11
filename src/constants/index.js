@@ -23,6 +23,9 @@ import {
   jobit,
   tripguide,
   threejs,
+  chatbot,
+  movie,
+  stock,
 } from "../assets";
 
 export const navLinks = [
