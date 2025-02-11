@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Tilt from "react-tilt";
+import Tilt from "react-parallax-tilt";
 import { motion, AnimatePresence } from "framer-motion";
 
 import { styles } from "../styles";
@@ -190,7 +190,7 @@ const ProjectCard = ({
             </motion.div>
           )}
         </AnimatePresence>
-      </Tilt>
+      </>
     </motion.div>
   );
 };
