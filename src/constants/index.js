@@ -170,17 +170,17 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "You can't change what's going on around you until you start changing what's going on within you",
     name: "Pranav D",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "We suffer more often in imagination than in reality.",
       name: "Pranav D",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "Always Do what you can, with what you have, where you are!",
       name: "Pranav D",
   },
 ];
